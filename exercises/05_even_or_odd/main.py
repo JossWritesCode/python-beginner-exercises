@@ -1,0 +1,3 @@
+def is_even(n: int) -> bool:
+    """Return True if n is even, else False."""
+    raise NotImplementedError
