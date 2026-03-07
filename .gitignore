@@ -1,0 +1,43 @@
+# python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtual environments
+.venv/
+venv/
+env/
+
+# pytest
+.pytest_cache/
+
+# coverage
+.coverage
+.coverage.*
+htmlcov/
+
+# mypy / type checkers
+.mypy_cache/
+.pyre/
+.pytype/
+
+# vscode
+.vscode/
+
+# macOS
+.DS_Store
+
+# editor / misc
+*.swp
+*.swo
+
+# build artifacts
+build/
+dist/
+*.egg-info/
+
+# local test artifacts
+.cache/
+
+# jupyter
+.ipynb_checkpoints/
